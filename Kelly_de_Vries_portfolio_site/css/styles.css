@@ -1,0 +1,42 @@
+p.heading {
+	color: blue;
+}
+
+
+.final {
+	text-align: left;
+	color: darkblue;
+}
+
+h1.heading {
+	text-align: center;
+	color: magenta;
+}
+
+a:link {
+	text-decoration: none;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.testing {
+	color: orange;
+}
+
+.contact {
+	margin-top: 5px;
+	color: purple;
+	font-style: none;
+	text-align: center;
+	line-height: 10%;
+}
+
+.final {
+	display: inline-block;
+	padding: 40px;
+	margin: 0px 30px;
+}

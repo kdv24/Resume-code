@@ -1,0 +1,39 @@
+.social_links p {
+	display: inline;
+	list-style-type: none;
+}
+
+.experience li {
+	font-weight: bold;
+	list-style: none;
+	float: left;
+}
+
+p {
+	text-align: justify;
+
+}
+
+body {
+	background-color: #CCE680;
+}
+
+.row {
+	padding: 0px 15px;
+}
+
+.row h2 {
+	font-family: 'Raleway', sans-serif;
+}
+
+.jumbotron {
+	margin-top: 20px;
+	padding: 2px;
+}
+
+.jumbotron h1 {
+	font-family: 'Shadows Into Light';
+	font-weight: bold;
+	text-align: center;
+
+}
